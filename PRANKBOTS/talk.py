@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from ..akad.ttypes import Message
+from ..PB.ttypes import Message
 from random import randint
 
 import json, ntpath
