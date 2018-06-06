@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from ..PB.ttypes import *
+from PB.ttypes import *
 from random import randint
 
 def loggedIn(func):
