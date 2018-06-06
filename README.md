@@ -20,4 +20,5 @@ Allah swt
 Prankbots
 Black of gamer
 Dan kawan-Kawan
+==========
 ```
