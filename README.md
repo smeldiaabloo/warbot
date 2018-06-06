@@ -1,5 +1,13 @@
 # PYTHON3
 #### thrift==0.11.0
+### how to automatic login bots
+- please delete ` line = LINE("") `
+- please delete ` pb1 = LINE ("") `
+- please delete ` pb2 = LINE ("") `
+-- Next Change to ` line = LINE() `
+-- Next Change to ` pb1 = LINE() `
+-- Next Change to ` pb2 = LINE() `
+
 ### SUPORT ON VPS/SERVER
 - no bezel
 ### TERMUX
