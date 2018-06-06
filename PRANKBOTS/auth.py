@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from ..akad.ttypes import IdentityProvider, LoginResultType, LoginRequest, LoginType
+from ..PB.ttypes import IdentityProvider, LoginResultType, LoginRequest, LoginType
 from .server import Server
 from .session import Session
 from .callback import Callback
