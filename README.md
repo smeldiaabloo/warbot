@@ -13,11 +13,35 @@ line = LINE()
 pb1 = LINE()
 pb2 = LINE()
 ```
-
+### installing
+- command vps/server
+```
+apt install python3-pip
+apt install python3-tz
+```
+- installing module
+```
+pip3 install youyube_dl
+pip3 install pafy
+pip3 install humanfriendly
+pip3 install rsa
+pip3 install requests
+pip3 install goslate
+pip3 install googletrans
+pip3 install bs4
+pip3 install gtts
+pip3 install html5lib
+pip3 install wikipedia
+pip3 install screen
+pip3 install thrift==0.11.0
+```
 ### SUPORT ON VPS/SERVER
 - no bezel
 ### TERMUX
-- please delete pytz in warbot.py
+- please delete
+``` py
+import pytz
+```
 - CREATOR PRANKBOTS
 ![Prankbots](gnb_ic_linenews_normal.png) new version ![Prankbots](bgpassnumber.png)
 V2.1 last update::
