@@ -4,6 +4,7 @@
 - no bezel
 ### TERMUX
 - please delete pytz in warbot.py
+- CREATOR PRANKBOTS
 ![Prankbots](gnb_ic_linenews_normal.png) new version ![Prankbots](bgpassnumber.png)
 V2.1 last update::
 06/juni/2018
