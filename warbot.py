@@ -31,7 +31,7 @@ pb1MID = pb1.getProfile().mid
 pb2MID = pb2.getProfile().mid
 #================
 Bots = [lineMID,pb1MID,pb2MID]
-OWNER = ["u961be7189409ffd9138c7206e35003b0"]
+OWNER = ["uacfe6a54aa3382a5c6184553dce0a21a"]
 #================
 wait={
     "lang":"JP",
